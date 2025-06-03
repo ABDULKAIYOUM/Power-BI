@@ -1,1 +1,1 @@
-This project uses Power BI Desktop to transform raw data into actionable intelligence. The dashboards are built to help stakeholders monitor key performance indicators (KPIs), track monthly performance, analyze top-performing products, and visualize geographical data.
+This project uses Power BI Desktop to transform raw data into actionable intelligence. The dashboards are built to help stakeholders monitor key performance indicators (KPIs), track monthly performance, analyse top-performing products, and visualize geographical data.
